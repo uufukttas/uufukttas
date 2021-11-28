@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ufuk</h1>
 <h3 align="center">A Software Engineer from Istanbul</h3>
 
-<div align="center"><img src="https://avatars.githubusercontent.com/u/25635718?v=4" width="280" height="230"  /> </div>
-
 - 🌱 I’m currently learning **React.js, Next Js Javascript etc.**
 
 - 📝 I regularly write articles on [My Medium Page](https://medium.com/@uufukttas) 
@@ -12,15 +10,12 @@
 
 - 📫 How to reach me **uufukttas@hotmail.com**
 
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/uufukttas" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="uufukttas" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/17533445/uufukttas" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="12544106" height="45" width="45" /></a>
+<a hrefhttps://twitter.com/uufukttas" target="blank"><img align="center" src="https://abs.twimg.com/favicons/twitter.ico" alt="12544106" height="45" width="45" /></a>
 <a href="https://instagram.com/uufukttas" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="uufukttas" height="30" width="30" /></a>
-<a href="https://medium.com/@uufukttas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@cengizcmataraci" height="30" width="40" /></a>
+<a href="https://medium.com/@uufukttas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@uufukttas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Technologies:</h3>
