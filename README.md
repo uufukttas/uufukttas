@@ -6,5 +6,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Insider
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me: uufukttas@hotmail.com
+- 📫 How to reach me: https://www.ufuktas.me
 - 😄 Pronouns: uufukttas
