@@ -47,7 +47,3 @@
 <a href="https://trello.com/en" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30"/> </a>
 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cengizcmataraci&show_icons=true&theme=radical&locale=en&layout=compact" alt="uufukttas" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cengizcmataraci&show_icons=true&theme=dark&locale=en" alt="cengizcmataraci" width="50%" /></p>
