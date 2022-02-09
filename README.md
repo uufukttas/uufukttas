@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **uufukttas@gmail.com**
 
+- 👨‍💻You can visit [my portfolio page](http://ufuktas.me)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:uufukttas@gmail.com"><img align="center" src="https://brandlogos.net/wp-content/uploads/2020/10/gmail-logo.png" alt="uufukttas" height="30" width="30" /></a>
