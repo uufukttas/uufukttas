@@ -41,7 +41,7 @@
 <a href="https://slack.com/intl/en-tr/" target="_blank"> <img src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" alt="slack" width="35" height="35"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a> 
-<a href="https://www.netlify.com/" target="_blank"> <img src="https://www.netlify.com/img/press/logos/logomark.png" alt="netlify" width="30" height="30"/> </a> 
+<a href="https://www.netlify.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/netlify-3628945-3030170.png" alt="netlify" width="30" height="30"/> </a> 
 <a href="https://trello.com/en" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30"/> </a>
 <a href="https://jira.atlassian.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="27" height="27"/> </a>
 
