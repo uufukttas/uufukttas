@@ -43,6 +43,7 @@
 <a href="https://www.netlify.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/netlify-3628945-3030170.png" alt="netlify" width="30" height="30"/> </a> 
 <a href="https://trello.com/en" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30"/> </a>
 <a href="https://jira.atlassian.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="27" height="27"/> </a>
+<a href="https://www.notion.so/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="27" height="27"/> </a>
 
 </p>
 
