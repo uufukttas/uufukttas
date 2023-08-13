@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:uufukttas@gmail.com"><img align="center" src="https://brandlogos.net/wp-content/uploads/2020/10/gmail-logo.png" alt="uufukttas" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/uufukttas" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="uufukttas" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/uufukttas" target="blank"><img align="center" src="https://static.licdn.com/sc/h/2lte9rx50p160huhpjiynt3mn" alt="uufukttas" height="30" width="30" /></a>
 <a href="https://medium.com/@uufukttas" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="@uufukttas" height="40" width="40" /></a>
 <a href="https://twitter.com/uufukttas" target="blank"><img align="center" src="https://abs.twimg.com/favicons/twitter.ico" alt="12544106" height="30" width="30" /></a>
 <a href="https://instagram.com/uufukttas" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="uufukttas" height="30" width="30" /></a>
